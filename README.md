@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+- 🌱 Estoy aprendiendo a programar en JavaScript y TypeScript.
+- 📫 Puedes contactarme: enriquegd2004@gmail.com
+
+### Mis redes sociales: 
+[![logo_ig]()](https://www.instagram.com/diazenriquegomez/)
+
 <!--
 **EnriqueGD08/EnriqueGD08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
