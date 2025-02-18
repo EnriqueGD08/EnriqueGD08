@@ -1,10 +1,10 @@
-## Hi there 👋
+## ¿Hola! 👋
 
 - 🔭 Actualmente estoy estudiando Ingeniería Informática en La Universidad de La Laguna
 - 🌱 Estoy aprendiendo a programar en JavaScript y TypeScript.
 - 📫 Puedes contactarme: enriquegd2004@gmail.com
 
-Los lenguajes de programación que se son:
+Los lenguajes de programación que se:
 1. C++
 2. JavaScript
 3. TypeScript
