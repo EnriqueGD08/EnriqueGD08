@@ -8,7 +8,6 @@ Los lenguajes de programación que se:
 1. C++
 2. JavaScript
 3. TypeScript
-4. Ensambládor
 
 ### Mis redes sociales: 
 <a href="https://www.instagram.com/diazenriquegomez/">
