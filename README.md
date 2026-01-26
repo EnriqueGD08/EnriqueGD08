@@ -9,8 +9,6 @@ Los lenguajes de programación que se:
 2. JavaScript
 3. Python
 4. Ruby
-5. Bash
-7. Java
 
 ### Mis redes sociales: 
 <a href="https://www.instagram.com/diazenriquegomez/">
