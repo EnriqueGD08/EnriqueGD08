@@ -1,4 +1,4 @@
-## ¿Hola! 👋
+## ¡Hola! 👋
 
 - 🔭 Actualmente estoy estudiando Ingeniería Informática en La Universidad de La Laguna
 - 🌱 Estoy aprendiendo a programar en JavaScript y TypeScript.
