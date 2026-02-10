@@ -77,21 +77,8 @@ const enrique = {
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EnriqueGD08&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=EnriqueGD08&theme=tokyonight&hide_border=true" />
-
-<img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EnriqueGD08&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
-
-</div>
-
----
-
-## 🏆 Trofeos de GitHub
-
-<div align="center">
-  
-![](https://github-profile-trophy.vercel.app/?username=EnriqueGD08&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
 
 </div>
 
@@ -99,13 +86,7 @@ const enrique = {
 
 ## 💼 Proyectos Destacados
 
-<div align="center">
-
-<a href="https://github.com/EnriqueGD08/TFG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=EnriqueGD08&repo=TFG&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
+[TFG](https://github.com/EnriqueGD08/TFG)
 
 ### 🌟 Otros Proyectos Interesantes
 
